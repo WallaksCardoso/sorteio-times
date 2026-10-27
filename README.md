@@ -73,7 +73,7 @@ src/
   storage/   lista salva no navegador
   utils/     área de transferência
 public/      ícone, manifest e service worker da PWA
-docs/        visão do produto, arquitetura e funcionalidades
+docs/        visão do produto, regras do sorteio, estrutura e decisões
 tests/       testes do domínio
 ```
 
